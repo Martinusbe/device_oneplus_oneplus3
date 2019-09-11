@@ -103,10 +103,10 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_CHARACTERISTICS := nosdcard
 
 # Alipay
-PRODUCT_PACKAGES += \
+#PRODUCT_PACKAGES += \
     org.ifaa.android.manager
 
-PRODUCT_BOOT_JARS += \
+#PRODUCT_BOOT_JARS += \
     org.ifaa.android.manager
 
 # Audio
