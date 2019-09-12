@@ -195,7 +195,6 @@ PRODUCT_COPY_FILES += \
 
 # Bluetooth
 PRODUCT_PROPERTY_OVERRIDES += \
-    persist.bluetooth.bluetooth_audio_hal.disabled=true \
     vendor.qcom.bluetooth.soc=rome
 
 # Camera
